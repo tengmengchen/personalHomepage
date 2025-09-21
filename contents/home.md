@@ -1,20 +1,7 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/tengmengchen)
+[![XX](https://img.shields.io/badge/tengmengchen-github-blue?logo=github)](https://github.com/tengmengchen)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+&emsp;&emsp;本栏目聚焦技术学习与项目开发过程中的核心沉淀，系统记录从理论钻研到实践落地的关键历程 —— 涵盖技术探索中的深度思考、项目开发中的问题解决与优化路径，以及从实践中提炼的方法论与经验总结。
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+&emsp;&emsp;技术学习维度，将呈现对技术栈的系统性攻坚：从基础原理的拆解分析，到工程化应用的试错迭代，包括技术选型的利弊权衡、跨领域知识融合的实践心得，以及攻克技术难点后的思路沉淀，例如针对特定技术在业务场景中的适配优化、底层逻辑的深度剖析等。
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+&emsp;&emsp;项目开发板块，将完整复盘全流程中的核心实践：从架构设计的初期规划，到开发落地的难点突破，再到上线后的性能迭代与维护优化，重点记录关键决策的推导过程、问题解决的具体方案，以及从项目中提炼的可复用经验，为后续技术实践提供可参考的路径与思路。
